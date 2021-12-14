@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:WAStickersThirdParty.xcodeproj">
+      location = "self:/Users/growtopiajaw/Downloads/stickers/GJStickers.xcodeproj">
    </FileRef>
 </Workspace>
