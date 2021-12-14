@@ -3,280 +3,3263 @@
     "android_play_store_link" : "",
     "sticker_packs" : [
     {
-        "identifier": "cuppyID",
-        "name": "Cuppy",
-        "publisher": "Jane Doe",
-        "tray_image_file" : "tray_Cuppy.png",
-        "publisher_website" : "",
+        "identifier": "2207654E-CD07-469B-982E-C9431C92832F",
+        "name": "Sticker Pack PoliPD",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-1.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
         "privacy_policy_website" : "",
         "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
         "stickers": [
         {
-            "image_file": "01_Cuppy_smile.png",
-            "emojis": ["☕","🙂"]
+          "image_file": "1-0.webp"
         },
         {
-            "image_file": "02_Cuppy_lol.png",
-            "emojis": ["😄","😀"]
+          "image_file": "1-1.webp"
         },
         {
-            "image_file": "03_Cuppy_rofl.png",
-            "emojis": ["😆","😂"]
+          "image_file": "1-2.webp"
         },
         {
-            "image_file": "04_Cuppy_sad.png",
-            "emojis": ["😃", "😍"]
+          "image_file": "1-3.webp"
         },
         {
-            "image_file": "05_Cuppy_cry.png",
-            "emojis": ["😭","💧"]
+          "image_file": "1-4.webp"
         },
         {
-            "image_file": "06_Cuppy_love.png",
-            "emojis": ["😍","♥"]
+          "image_file": "1-5.webp"
         },
         {
-            "image_file": "07_Cuppy_hate.png",
-            "emojis": ["💔","👎"]
+          "image_file": "1-6.webp"
         },
         {
-            "image_file": "08_Cuppy_lovewithmug.png",
-            "emojis": ["😍","💑"]
+          "image_file": "1-7.webp"
         },
         {
-            "image_file": "09_Cuppy_lovewithcookie.png",
-            "emojis": ["😘","🍪"]
+          "image_file": "1-8.webp"
         },
         {
-            "image_file": "10_Cuppy_hmm.png",
-            "emojis": ["🤔","😐"]
+          "image_file": "1-9.webp"
         },
         {
-            "image_file": "11_Cuppy_upset.png",
-            "emojis": ["😱","😵"]
+          "image_file": "1-10.webp"
         },
         {
-            "image_file": "12_Cuppy_angry.png",
-            "emojis": ["😡","😠"]
+          "image_file": "1-11.webp"
         },
         {
-            "image_file": "13_Cuppy_curious.png",
-            "emojis": ["❓","🤔"]
+          "image_file": "1-12.webp"
         },
         {
-            "image_file": "14_Cuppy_weird.png",
-            "emojis": ["🌈","😜"]
+          "image_file": "1-13.webp"
         },
         {
-            "image_file": "15_Cuppy_bluescreen.png",
-            "emojis": ["💻","😩"]
+          "image_file": "1-14.webp"
         },
         {
-            "image_file": "16_Cuppy_angry.png",
-            "emojis": ["😡","😤"]
+          "image_file": "1-15.webp"
         },
         {
-            "image_file": "17_Cuppy_tired.png",
-            "emojis": ["😩","😨"]
+          "image_file": "1-16.webp"
         },
         {
-            "image_file": "18_Cuppy_workhard.png",
-            "emojis": ["😔", "😨"]
+          "image_file": "1-17.webp"
         },
         {
-            "image_file": "19_Cuppy_shine.png",
-            "emojis": ["🎉","✨"]
+          "image_file": "1-18.webp"
         },
         {
-            "image_file": "20_Cuppy_disgusting.png",
-            "emojis": ["🤮","👎"]
+          "image_file": "1-19.webp"
         },
         {
-            "image_file": "21_Cuppy_hi.png",
-            "emojis": ["🖐","🙋"]
+          "image_file": "1-20.webp"
         },
         {
-            "image_file": "22_Cuppy_bye.png",
-            "emojis": ["🖐","👋"]
-        }]
+          "image_file": "1-21.webp"
+        },
+        {
+          "image_file": "1-22.webp"
+        },
+        {
+          "image_file": "1-23.webp"
+        },
+        {
+          "image_file": "1-24.webp"
+        },
+        {
+          "image_file": "1-25.webp"
+        },
+        {
+          "image_file": "1-26.webp"
+        },
+        {
+          "image_file": "1-27.webp"
+        },
+        {
+          "image_file": "1-28.webp"
+        },
+        {
+          "image_file": "1-29.webp"
+        }
+      ]
     },
     {
-        "identifier": "togetherAtHomeID",
-        "name": "Together At Home",
-        "publisher": "World Health Organization",
-        "tray_image_file" : "tray_TogetherAtHome.png",
-        "publisher_website" : "",
+        "identifier": "0F9B2DFA-D863-48F6-9F57-AB05C248F5CE",
+        "name": "Sticker Pack PoliPD 2",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-1.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
         "privacy_policy_website" : "",
         "license_agreement_website" : "",
-        "animated_sticker_pack" : true,
+        "animated_sticker_pack" : false,
         "stickers": [
         {
-          "image_file": "01_SendingLove.webp",
-          "emojis": [
-            "💕",
-            "😘",
-            "❤️"
-          ]
+          "image_file": "1-30.webp"
         },
         {
-          "image_file": "02_WellDoThisTogether.webp",
-          "emojis": [
-            "✊",
-            "💪",
-            "🙏"
-          ]
+          "image_file": "1-31.webp"
         },
         {
-          "image_file": "03_Heart.webp",
-          "emojis": [
-            "❤️",
-            "😘",
-            "💕"
-          ]
+          "image_file": "1-32.webp"
         },
         {
-          "image_file": "04_AirHighFive.webp",
-          "emojis": [
-            "🖐",
-            "🙌",
-            "✋"
-          ]
+          "image_file": "1-33.webp"
         },
         {
-          "image_file": "05_GroupVideoCalling.webp",
-          "emojis": [
-            "📱",
-            "👯",
-            "👋"
-          ]
+          "image_file": "1-34.webp"
         },
         {
-          "image_file": "06_StayConnected.webp",
-          "emojis": [
-            "📱",
-            "🙋‍♀",
-            "🙋‍♂"
-          ]
+          "image_file": "1-35.webp"
         },
         {
-          "image_file": "07_OK.webp",
-          "emojis": [
-            "👍",
-            "👌",
-            "🙂"
-          ]
+          "image_file": "1-36.webp"
         },
         {
-          "image_file": "08_AreYouOK.webp",
-          "emojis": [
-            "👋",
-            "❓",
-            "📱"
-          ]
+          "image_file": "1-37.webp"
         },
         {
-          "image_file": "09_StayingHomeMug.webp",
-          "emojis": [
-            "☕",
-            "🍵",
-            "🏠"
-          ]
+          "image_file": "1-38.webp"
         },
         {
-          "image_file": "10_WorkingFromBed.webp",
-          "emojis": [
-            "👩‍💻",
-            "👨‍💻",
-            "🛏"
-          ]
+          "image_file": "1-39.webp"
         },
         {
-          "image_file": "11_StayCalm.webp",
-          "emojis": [
-            "☕",
-            "🍵",
-            "🤙"
-          ]
+          "image_file": "1-40.webp"
         },
         {
-          "image_file": "12_Gymnastics.webp",
-          "emojis": [
-            "🤸",
-            "🐩",
-            "💪"
-          ]
+          "image_file": "1-41.webp"
         },
         {
-          "image_file": "13_DoubleChecking.webp",
-          "emojis": [
-            "📰",
-            "🔎",
-            "🔍"
-          ]
+          "image_file": "1-42.webp"
         },
         {
-          "image_file": "14_CatOnTheLaptop.webp",
-          "emojis": [
-            "🐈",
-            "🐱",
-            "💻"
-          ]
+          "image_file": "1-43.webp"
         },
         {
-          "image_file": "15_WorkingFromHomeF.webp",
-          "emojis": [
-            "👩‍💻",
-            "🏠",
-            "💻"
-          ]
+          "image_file": "1-44.webp"
         },
         {
-          "image_file": "16_WorkingFromHomeM.webp",
-          "emojis": [
-            "👨‍💻",
-            "🏠",
-            "💻"
-          ]
+          "image_file": "1-45.webp"
         },
         {
-          "image_file": "17_WashingHands.webp",
-          "emojis": [
-            "✋",
-            "💦",
-            "🤧"
-          ]
+          "image_file": "1-46.webp"
         },
         {
-          "image_file": "18_DontTouchYourFace.webp",
-          "emojis": [
-            "😷",
-            "🤒",
-            "🤧"
-          ]
+          "image_file": "1-47.webp"
         },
         {
-          "image_file": "19_SocialDistancing.webp",
-          "emojis": [
-            "😷",
-            "🤒",
-            "🏠"
-          ]
+          "image_file": "1-48.webp"
         },
         {
-          "image_file": "20_SuperheroNurse.webp",
-          "emojis": [
-            "👩‍⚕",
-            "👨‍⚕️",
-            "🤒"
-          ]
+          "image_file": "1-49.webp"
         },
         {
-          "image_file": "21_YouAreMyHero.webp",
-          "emojis": [
-            "🙏",
-            "🎉",
-            "✨"
-          ]
+          "image_file": "1-50.webp"
+        },
+        {
+          "image_file": "1-51.webp"
+        },
+        {
+          "image_file": "1-52.webp"
+        },
+        {
+          "image_file": "1-53.webp"
+        },
+        {
+          "image_file": "1-54.webp"
+        },
+        {
+          "image_file": "1-55.webp"
+        },
+        {
+          "image_file": "1-56.webp"
+        },
+        {
+          "image_file": "1-57.webp"
+        },
+        {
+          "image_file": "1-58.webp"
+        },
+        {
+          "image_file": "1-59.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "07B309BD-29E3-4474-B864-9D0A0B4F81F1",
+        "name": "Sticker Pack PoliPD 3",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-1.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "1-60.webp"
+        },
+        {
+          "image_file": "1-61.webp"
+        },
+        {
+          "image_file": "1-62.webp"
+        },
+        {
+          "image_file": "1-63.webp"
+        },
+        {
+          "image_file": "1-64.webp"
+        },
+        {
+          "image_file": "1-65.webp"
+        },
+        {
+          "image_file": "1-66.webp"
+        },
+        {
+          "image_file": "1-67.webp"
+        },
+        {
+          "image_file": "1-68.webp"
+        },
+        {
+          "image_file": "1-69.webp"
+        },
+        {
+          "image_file": "1-70.webp"
+        },
+        {
+          "image_file": "1-71.webp"
+        },
+        {
+          "image_file": "1-72.webp"
+        },
+        {
+          "image_file": "1-73.webp"
+        },
+        {
+          "image_file": "1-74.webp"
+        },
+        {
+          "image_file": "1-75.webp"
+        },
+        {
+          "image_file": "1-76.webp"
+        },
+        {
+          "image_file": "1-77.webp"
+        },
+        {
+          "image_file": "1-78.webp"
+        },
+        {
+          "image_file": "1-79.webp"
+        },
+        {
+          "image_file": "1-80.webp"
+        },
+        {
+          "image_file": "1-81.webp"
+        },
+        {
+          "image_file": "1-82.webp"
+        },
+        {
+          "image_file": "1-83.webp"
+        },
+        {
+          "image_file": "1-84.webp"
+        },
+        {
+          "image_file": "1-85.webp"
+        },
+        {
+          "image_file": "1-86.webp"
+        },
+        {
+          "image_file": "1-87.webp"
+        },
+        {
+          "image_file": "1-88.webp"
+        },
+        {
+          "image_file": "1-89.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "D0BE6175-B7C9-4759-A001-A2E7F3349BDD",
+        "name": "Sticker Pack PoliPD 4",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-1.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "1-90.webp"
+        },
+        {
+          "image_file": "1-91.webp"
+        },
+        {
+          "image_file": "1-92.webp"
+        },
+        {
+          "image_file": "1-93.webp"
+        },
+        {
+          "image_file": "1-94.webp"
+        },
+        {
+          "image_file": "1-95.webp"
+        },
+        {
+          "image_file": "1-96.webp"
+        },
+        {
+          "image_file": "1-97.webp"
+        },
+        {
+          "image_file": "1-98.webp"
+        },
+        {
+          "image_file": "1-99.webp"
+        },
+        {
+          "image_file": "1-100.webp"
+        },
+        {
+          "image_file": "1-101.webp"
+        },
+        {
+          "image_file": "1-102.webp"
+        },
+        {
+          "image_file": "1-103.webp"
+        },
+        {
+          "image_file": "1-104.webp"
+        },
+        {
+          "image_file": "1-105.webp"
+        },
+        {
+          "image_file": "1-106.webp"
+        },
+        {
+          "image_file": "1-107.webp"
+        },
+        {
+          "image_file": "1-108.webp"
+        },
+        {
+          "image_file": "1-109.webp"
+        },
+        {
+          "image_file": "1-110.webp"
+        },
+        {
+          "image_file": "1-111.webp"
+        },
+        {
+          "image_file": "1-112.webp"
+        },
+        {
+          "image_file": "1-113.webp"
+        },
+        {
+          "image_file": "1-114.webp"
+        },
+        {
+          "image_file": "1-115.webp"
+        },
+        {
+          "image_file": "1-116.webp"
+        },
+        {
+          "image_file": "1-117.webp"
+        },
+        {
+          "image_file": "1-118.webp"
+        },
+        {
+          "image_file": "1-119.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "83340207-6949-4855-809C-7A2546347DEB",
+        "name": "Sticker Pack PoliPD 5",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "0.webp"
+        },
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "45667604-0C1B-4D2E-8B5D-293A447D080F",
+        "name": "Sticker Pack PoliPD 6",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "30.webp"
+        },
+        {
+          "image_file": "31.webp"
+        },
+        {
+          "image_file": "32.webp"
+        },
+        {
+          "image_file": "33.webp"
+        },
+        {
+          "image_file": "34.webp"
+        },
+        {
+          "image_file": "35.webp"
+        },
+        {
+          "image_file": "36.webp"
+        },
+        {
+          "image_file": "37.webp"
+        },
+        {
+          "image_file": "38.webp"
+        },
+        {
+          "image_file": "39.webp"
+        },
+        {
+          "image_file": "40.webp"
+        },
+        {
+          "image_file": "41.webp"
+        },
+        {
+          "image_file": "42.webp"
+        },
+        {
+          "image_file": "43.webp"
+        },
+        {
+          "image_file": "44.webp"
+        },
+        {
+          "image_file": "45.webp"
+        },
+        {
+          "image_file": "46.webp"
+        },
+        {
+          "image_file": "47.webp"
+        },
+        {
+          "image_file": "48.webp"
+        },
+        {
+          "image_file": "49.webp"
+        },
+        {
+          "image_file": "50.webp"
+        },
+        {
+          "image_file": "51.webp"
+        },
+        {
+          "image_file": "52.webp"
+        },
+        {
+          "image_file": "53.webp"
+        },
+        {
+          "image_file": "54.webp"
+        },
+        {
+          "image_file": "55.webp"
+        },
+        {
+          "image_file": "56.webp"
+        },
+        {
+          "image_file": "57.webp"
+        },
+        {
+          "image_file": "58.webp"
+        },
+        {
+          "image_file": "59.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "91655AF2-8CC6-424F-A9B7-78836E46FA52",
+        "name": "Sticker Pack PoliPD 7",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "60.webp"
+        },
+        {
+          "image_file": "61.webp"
+        },
+        {
+          "image_file": "62.webp"
+        },
+        {
+          "image_file": "63.webp"
+        },
+        {
+          "image_file": "64.webp"
+        },
+        {
+          "image_file": "65.webp"
+        },
+        {
+          "image_file": "66.webp"
+        },
+        {
+          "image_file": "67.webp"
+        },
+        {
+          "image_file": "68.webp"
+        },
+        {
+          "image_file": "69.webp"
+        },
+        {
+          "image_file": "70.webp"
+        },
+        {
+          "image_file": "71.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "34A4ED36-4181-4EF8-9EA8-A9EBCD98F100",
+        "name": "Sticker Pack PoliPD 8",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-2.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "2-0.webp"
+        },
+        {
+          "image_file": "2-1.webp"
+        },
+        {
+          "image_file": "2-2.webp"
+        },
+        {
+          "image_file": "2-3.webp"
+        },
+        {
+          "image_file": "2-4.webp"
+        },
+        {
+          "image_file": "2-5.webp"
+        },
+        {
+          "image_file": "2-6.webp"
+        },
+        {
+          "image_file": "2-7.webp"
+        },
+        {
+          "image_file": "2-8.webp"
+        },
+        {
+          "image_file": "2-9.webp"
+        },
+        {
+          "image_file": "2-10.webp"
+        },
+        {
+          "image_file": "2-11.webp"
+        },
+        {
+          "image_file": "2-12.webp"
+        },
+        {
+          "image_file": "2-13.webp"
+        },
+        {
+          "image_file": "2-14.webp"
+        },
+        {
+          "image_file": "2-15.webp"
+        },
+        {
+          "image_file": "2-16.webp"
+        },
+        {
+          "image_file": "2-17.webp"
+        },
+        {
+          "image_file": "2-18.webp"
+        },
+        {
+          "image_file": "2-19.webp"
+        },
+        {
+          "image_file": "2-20.webp"
+        },
+        {
+          "image_file": "2-21.webp"
+        },
+        {
+          "image_file": "2-22.webp"
+        },
+        {
+          "image_file": "2-23.webp"
+        },
+        {
+          "image_file": "2-24.webp"
+        },
+        {
+          "image_file": "2-25.webp"
+        },
+        {
+          "image_file": "2-26.webp"
+        },
+        {
+          "image_file": "2-27.webp"
+        },
+        {
+          "image_file": "2-28.webp"
+        },
+        {
+          "image_file": "2-29.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "B3A24E3C-7055-4F04-BB81-61442A4BE08C",
+        "name": "Sticker Pack PoliPD 9",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-2.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "2-30.webp"
+        },
+        {
+          "image_file": "2-31.webp"
+        },
+        {
+          "image_file": "2-32.webp"
+        },
+        {
+          "image_file": "2-33.webp"
+        },
+        {
+          "image_file": "2-34.webp"
+        },
+        {
+          "image_file": "2-35.webp"
+        },
+        {
+          "image_file": "2-36.webp"
+        },
+        {
+          "image_file": "2-37.webp"
+        },
+        {
+          "image_file": "2-38.webp"
+        },
+        {
+          "image_file": "2-39.webp"
+        },
+        {
+          "image_file": "2-40.webp"
+        },
+        {
+          "image_file": "2-41.webp"
+        },
+        {
+          "image_file": "2-42.webp"
+        },
+        {
+          "image_file": "2-43.webp"
+        },
+        {
+          "image_file": "2-44.webp"
+        },
+        {
+          "image_file": "2-45.webp"
+        },
+        {
+          "image_file": "2-46.webp"
+        },
+        {
+          "image_file": "2-47.webp"
+        },
+        {
+          "image_file": "2-48.webp"
+        },
+        {
+          "image_file": "2-49.webp"
+        },
+        {
+          "image_file": "2-50.webp"
+        },
+        {
+          "image_file": "2-51.webp"
+        },
+        {
+          "image_file": "2-52.webp"
+        },
+        {
+          "image_file": "2-53.webp"
+        },
+        {
+          "image_file": "2-54.webp"
+        },
+        {
+          "image_file": "2-55.webp"
+        },
+        {
+          "image_file": "2-56.webp"
+        },
+        {
+          "image_file": "2-57.webp"
+        },
+        {
+          "image_file": "2-58.webp"
+        },
+        {
+          "image_file": "2-59.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "1778AABF-99D9-4C4D-A05D-F5A3A1189DCE",
+        "name": "Sticker Pack PoliPD 10",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-2.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "2-60.webp"
+        },
+        {
+          "image_file": "2-61.webp"
+        },
+        {
+          "image_file": "2-62.webp"
+        },
+        {
+          "image_file": "2-63.webp"
+        },
+        {
+          "image_file": "2-64.webp"
+        },
+        {
+          "image_file": "2-65.webp"
+        },
+        {
+          "image_file": "2-66.webp"
+        },
+        {
+          "image_file": "2-67.webp"
+        },
+        {
+          "image_file": "2-68.webp"
+        },
+        {
+          "image_file": "2-69.webp"
+        },
+        {
+          "image_file": "2-70.webp"
+        },
+        {
+          "image_file": "2-71.webp"
+        },
+        {
+          "image_file": "2-72.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "B161DF51-EFCD-40FB-9D42-D5EFC4F61D78",
+        "name": "Sticker Pack PoliPD 11",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-3.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "3-0.webp"
+        },
+        {
+          "image_file": "3-1.webp"
+        },
+        {
+          "image_file": "3-2.webp"
+        },
+        {
+          "image_file": "3-3.webp"
+        },
+        {
+          "image_file": "3-4.webp"
+        },
+        {
+          "image_file": "3-5.webp"
+        },
+        {
+          "image_file": "3-6.webp"
+        },
+        {
+          "image_file": "3-7.webp"
+        },
+        {
+          "image_file": "3-8.webp"
+        },
+        {
+          "image_file": "3-9.webp"
+        },
+        {
+          "image_file": "3-10.webp"
+        },
+        {
+          "image_file": "3-11.webp"
+        },
+        {
+          "image_file": "3-12.webp"
+        },
+        {
+          "image_file": "3-13.webp"
+        },
+        {
+          "image_file": "3-14.webp"
+        },
+        {
+          "image_file": "3-15.webp"
+        },
+        {
+          "image_file": "3-16.webp"
+        },
+        {
+          "image_file": "3-17.webp"
+        },
+        {
+          "image_file": "3-18.webp"
+        },
+        {
+          "image_file": "3-19.webp"
+        },
+        {
+          "image_file": "3-20.webp"
+        },
+        {
+          "image_file": "3-21.webp"
+        },
+        {
+          "image_file": "3-22.webp"
+        },
+        {
+          "image_file": "3-23.webp"
+        },
+        {
+          "image_file": "3-24.webp"
+        },
+        {
+          "image_file": "3-25.webp"
+        },
+        {
+          "image_file": "3-26.webp"
+        },
+        {
+          "image_file": "3-27.webp"
+        },
+        {
+          "image_file": "3-28.webp"
+        },
+        {
+          "image_file": "3-29.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "89029F1F-B61B-49AD-B997-662942C895B4",
+        "name": "Sticker Pack PoliPD 12",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-3.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "3-30.webp"
+        },
+        {
+          "image_file": "3-31.webp"
+        },
+        {
+          "image_file": "3-32.webp"
+        },
+        {
+          "image_file": "3-33.webp"
+        },
+        {
+          "image_file": "3-34.webp"
+        },
+        {
+          "image_file": "3-35.webp"
+        },
+        {
+          "image_file": "3-36.webp"
+        },
+        {
+          "image_file": "3-37.webp"
+        },
+        {
+          "image_file": "3-38.webp"
+        },
+        {
+          "image_file": "3-39.webp"
+        },
+        {
+          "image_file": "3-40.webp"
+        },
+        {
+          "image_file": "3-41.webp"
+        },
+        {
+          "image_file": "3-42.webp"
+        },
+        {
+          "image_file": "3-43.webp"
+        },
+        {
+          "image_file": "3-44.webp"
+        },
+        {
+          "image_file": "3-45.webp"
+        },
+        {
+          "image_file": "3-46.webp"
+        },
+        {
+          "image_file": "3-47.webp"
+        },
+        {
+          "image_file": "3-48.webp"
+        },
+        {
+          "image_file": "3-49.webp"
+        },
+        {
+          "image_file": "3-50.webp"
+        },
+        {
+          "image_file": "3-51.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "DCAE0D36-BB18-43F7-98D4-EF440669B88E",
+        "name": "Sticker Pack PoliPD 13",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-4.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "4-0.webp"
+        },
+        {
+          "image_file": "4-1.webp"
+        },
+        {
+          "image_file": "4-2.webp"
+        },
+        {
+          "image_file": "4-3.webp"
+        },
+        {
+          "image_file": "4-4.webp"
+        },
+        {
+          "image_file": "4-5.webp"
+        },
+        {
+          "image_file": "4-6.webp"
+        },
+        {
+          "image_file": "4-7.webp"
+        },
+        {
+          "image_file": "4-8.webp"
+        },
+        {
+          "image_file": "4-9.webp"
+        },
+        {
+          "image_file": "4-10.webp"
+        },
+        {
+          "image_file": "4-11.webp"
+        },
+        {
+          "image_file": "4-12.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "73C3FF2D-C663-46A3-A2F7-59B06C4EDD95",
+        "name": "Sticker Pack PoliPD 14",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-5.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "5-0.webp"
+        },
+        {
+          "image_file": "5-1.webp"
+        },
+        {
+          "image_file": "5-2.webp"
+        },
+        {
+          "image_file": "5-3.webp"
+        },
+        {
+          "image_file": "5-4.webp"
+        },
+        {
+          "image_file": "5-5.webp"
+        },
+        {
+          "image_file": "5-6.webp"
+        },
+        {
+          "image_file": "5-7.webp"
+        },
+        {
+          "image_file": "5-8.webp"
+        },
+        {
+          "image_file": "5-9.webp"
+        },
+        {
+          "image_file": "5-10.webp"
+        },
+        {
+          "image_file": "5-11.webp"
+        },
+        {
+          "image_file": "5-12.webp"
+        },
+        {
+          "image_file": "5-13.webp"
+        },
+        {
+          "image_file": "5-14.webp"
+        },
+        {
+          "image_file": "5-15.webp"
+        },
+        {
+          "image_file": "5-16.webp"
+        },
+        {
+          "image_file": "5-17.webp"
+        },
+        {
+          "image_file": "5-18.webp"
+        },
+        {
+          "image_file": "5-19.webp"
+        },
+        {
+          "image_file": "5-20.webp"
+        },
+        {
+          "image_file": "5-21.webp"
+        },
+        {
+          "image_file": "5-22.webp"
+        },
+        {
+          "image_file": "5-23.webp"
+        },
+        {
+          "image_file": "5-24.webp"
+        },
+        {
+          "image_file": "5-25.webp"
+        },
+        {
+          "image_file": "5-26.webp"
+        },
+        {
+          "image_file": "5-27.webp"
+        },
+        {
+          "image_file": "5-28.webp"
+        },
+        {
+          "image_file": "5-29.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "A0C0475B-8125-4FF0-AD36-F7195B370014",
+        "name": "Sticker Pack PoliPD 15",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-5.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "5-30.webp"
+        },
+        {
+          "image_file": "5-31.webp"
+        },
+        {
+          "image_file": "5-32.webp"
+        },
+        {
+          "image_file": "5-33.webp"
+        },
+        {
+          "image_file": "5-34.webp"
+        },
+        {
+          "image_file": "5-35.webp"
+        },
+        {
+          "image_file": "5-36.webp"
+        },
+        {
+          "image_file": "5-37.webp"
+        },
+        {
+          "image_file": "5-38.webp"
+        },
+        {
+          "image_file": "5-39.webp"
+        },
+        {
+          "image_file": "5-40.webp"
+        },
+        {
+          "image_file": "5-41.webp"
+        },
+        {
+          "image_file": "5-42.webp"
+        },
+        {
+          "image_file": "5-43.webp"
+        },
+        {
+          "image_file": "5-44.webp"
+        },
+        {
+          "image_file": "5-45.webp"
+        },
+        {
+          "image_file": "5-46.webp"
+        },
+        {
+          "image_file": "5-47.webp"
+        },
+        {
+          "image_file": "5-48.webp"
+        },
+        {
+          "image_file": "5-49.webp"
+        },
+        {
+          "image_file": "5-50.webp"
+        },
+        {
+          "image_file": "5-51.webp"
+        },
+        {
+          "image_file": "5-52.webp"
+        },
+        {
+          "image_file": "5-53.webp"
+        },
+        {
+          "image_file": "5-54.webp"
+        },
+        {
+          "image_file": "5-55.webp"
+        },
+        {
+          "image_file": "5-56.webp"
+        },
+        {
+          "image_file": "5-57.webp"
+        },
+        {
+          "image_file": "5-58.webp"
+        },
+        {
+          "image_file": "5-59.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "0E455EA1-1A7B-4288-B09F-4663D46D100C",
+        "name": "Sticker Pack PoliPD 16",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-5.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "5-60.webp"
+        },
+        {
+          "image_file": "5-61.webp"
+        },
+        {
+          "image_file": "5-62.webp"
+        },
+        {
+          "image_file": "5-63.webp"
+        },
+        {
+          "image_file": "5-64.webp"
+        },
+        {
+          "image_file": "5-65.webp"
+        },
+        {
+          "image_file": "5-66.webp"
+        },
+        {
+          "image_file": "5-67.webp"
+        },
+        {
+          "image_file": "5-68.webp"
+        },
+        {
+          "image_file": "5-69.webp"
+        },
+        {
+          "image_file": "5-70.webp"
+        },
+        {
+          "image_file": "5-71.webp"
+        },
+        {
+          "image_file": "5-72.webp"
+        },
+        {
+          "image_file": "5-73.webp"
+        },
+        {
+          "image_file": "5-74.webp"
+        },
+        {
+          "image_file": "5-75.webp"
+        },
+        {
+          "image_file": "5-76.webp"
+        },
+        {
+          "image_file": "5-77.webp"
+        },
+        {
+          "image_file": "5-78.webp"
+        },
+        {
+          "image_file": "5-79.webp"
+        },
+        {
+          "image_file": "5-80.webp"
+        },
+        {
+          "image_file": "5-81.webp"
+        },
+        {
+          "image_file": "5-82.webp"
+        },
+        {
+          "image_file": "5-83.webp"
+        },
+        {
+          "image_file": "5-84.webp"
+        },
+        {
+          "image_file": "5-85.webp"
+        },
+        {
+          "image_file": "5-86.webp"
+        },
+        {
+          "image_file": "5-87.webp"
+        },
+        {
+          "image_file": "5-88.webp"
+        },
+        {
+          "image_file": "5-89.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "848B5183-000A-42AB-BF7B-DD5E5DB3600D",
+        "name": "Sticker Pack PoliPD 17",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-5.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "5-90.webp"
+        },
+        {
+          "image_file": "5-91.webp"
+        },
+        {
+          "image_file": "5-92.webp"
+        },
+        {
+          "image_file": "5-93.webp"
+        },
+        {
+          "image_file": "5-94.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "416D3B2B-84D9-4082-96B2-46C82527406F",
+        "name": "Sticker Pack PoliPD 18",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-6.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "6-0.webp"
+        },
+        {
+          "image_file": "6-1.webp"
+        },
+        {
+          "image_file": "6-2.webp"
+        },
+        {
+          "image_file": "6-3.webp"
+        },
+        {
+          "image_file": "6-4.webp"
+        },
+        {
+          "image_file": "6-5.webp"
+        },
+        {
+          "image_file": "6-6.webp"
+        },
+        {
+          "image_file": "6-7.webp"
+        },
+        {
+          "image_file": "6-8.webp"
+        },
+        {
+          "image_file": "6-9.webp"
+        },
+        {
+          "image_file": "6-10.webp"
+        },
+        {
+          "image_file": "6-11.webp"
+        },
+        {
+          "image_file": "6-12.webp"
+        },
+        {
+          "image_file": "6-13.webp"
+        },
+        {
+          "image_file": "6-14.webp"
+        },
+        {
+          "image_file": "6-15.webp"
+        },
+        {
+          "image_file": "6-16.webp"
+        },
+        {
+          "image_file": "6-17.webp"
+        },
+        {
+          "image_file": "6-18.webp"
+        },
+        {
+          "image_file": "6-19.webp"
+        },
+        {
+          "image_file": "6-20.webp"
+        },
+        {
+          "image_file": "6-21.webp"
+        },
+        {
+          "image_file": "6-22.webp"
+        },
+        {
+          "image_file": "6-23.webp"
+        },
+        {
+          "image_file": "6-24.webp"
+        },
+        {
+          "image_file": "6-25.webp"
+        },
+        {
+          "image_file": "6-26.webp"
+        },
+        {
+          "image_file": "6-27.webp"
+        },
+        {
+          "image_file": "6-28.webp"
+        },
+        {
+          "image_file": "6-29.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "4454E76B-5455-4411-A34C-C070D3D541B3",
+        "name": "Sticker Pack PoliPD 19",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-6.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "6-30.webp"
+        },
+        {
+          "image_file": "6-31.webp"
+        },
+        {
+          "image_file": "6-32.webp"
+        },
+        {
+          "image_file": "6-33.webp"
+        },
+        {
+          "image_file": "6-34.webp"
+        },
+        {
+          "image_file": "6-35.webp"
+        },
+        {
+          "image_file": "6-36.webp"
+        },
+        {
+          "image_file": "6-37.webp"
+        },
+        {
+          "image_file": "6-38.webp"
+        },
+        {
+          "image_file": "6-39.webp"
+        },
+        {
+          "image_file": "6-40.webp"
+        },
+        {
+          "image_file": "6-41.webp"
+        },
+        {
+          "image_file": "6-42.webp"
+        },
+        {
+          "image_file": "6-43.webp"
+        },
+        {
+          "image_file": "6-44.webp"
+        },
+        {
+          "image_file": "6-45.webp"
+        },
+        {
+          "image_file": "6-46.webp"
+        },
+        {
+          "image_file": "6-47.webp"
+        },
+        {
+          "image_file": "6-48.webp"
+        },
+        {
+          "image_file": "6-49.webp"
+        },
+        {
+          "image_file": "6-50.webp"
+        },
+        {
+          "image_file": "6-51.webp"
+        },
+        {
+          "image_file": "6-52.webp"
+        },
+        {
+          "image_file": "6-53.webp"
+        },
+        {
+          "image_file": "6-54.webp"
+        },
+        {
+          "image_file": "6-55.webp"
+        },
+        {
+          "image_file": "6-56.webp"
+        },
+        {
+          "image_file": "6-57.webp"
+        },
+        {
+          "image_file": "6-58.webp"
+        },
+        {
+          "image_file": "6-59.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "89B060DA-BBFA-450A-B19F-4B8734E5CB42",
+        "name": "Sticker Pack PoliPD 20",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-7.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "7-0.webp"
+        },
+        {
+          "image_file": "7-1.webp"
+        },
+        {
+          "image_file": "7-2.webp"
+        },
+        {
+          "image_file": "7-3.webp"
+        },
+        {
+          "image_file": "7-4.webp"
+        },
+        {
+          "image_file": "7-5.webp"
+        },
+        {
+          "image_file": "7-6.webp"
+        },
+        {
+          "image_file": "7-7.webp"
+        },
+        {
+          "image_file": "7-8.webp"
+        },
+        {
+          "image_file": "7-9.webp"
+        },
+        {
+          "image_file": "7-10.webp"
+        },
+        {
+          "image_file": "7-11.webp"
+        },
+        {
+          "image_file": "7-12.webp"
+        },
+        {
+          "image_file": "7-13.webp"
+        },
+        {
+          "image_file": "7-14.webp"
+        },
+        {
+          "image_file": "7-15.webp"
+        },
+        {
+          "image_file": "7-16.webp"
+        },
+        {
+          "image_file": "7-17.webp"
+        },
+        {
+          "image_file": "7-18.webp"
+        },
+        {
+          "image_file": "7-19.webp"
+        },
+        {
+          "image_file": "7-20.webp"
+        },
+        {
+          "image_file": "7-21.webp"
+        },
+        {
+          "image_file": "7-22.webp"
+        },
+        {
+          "image_file": "7-23.webp"
+        },
+        {
+          "image_file": "7-24.webp"
+        },
+        {
+          "image_file": "7-25.webp"
+        },
+        {
+          "image_file": "7-26.webp"
+        },
+        {
+          "image_file": "7-27.webp"
+        },
+        {
+          "image_file": "7-28.webp"
+        },
+        {
+          "image_file": "7-29.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "20DBBFA3-9D3F-4AE3-A978-E0477CEF7655",
+        "name": "Sticker Pack PoliPD 21",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-7.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "7-30.webp"
+        },
+        {
+          "image_file": "7-31.webp"
+        },
+        {
+          "image_file": "7-32.webp"
+        },
+        {
+          "image_file": "7-33.webp"
+        },
+        {
+          "image_file": "7-34.webp"
+        },
+        {
+          "image_file": "7-35.webp"
+        },
+        {
+          "image_file": "7-36.webp"
+        },
+        {
+          "image_file": "7-37.webp"
+        },
+        {
+          "image_file": "7-38.webp"
+        },
+        {
+          "image_file": "7-39.webp"
+        },
+        {
+          "image_file": "7-40.webp"
+        },
+        {
+          "image_file": "7-41.webp"
+        },
+        {
+          "image_file": "7-42.webp"
+        },
+        {
+          "image_file": "7-43.webp"
+        },
+        {
+          "image_file": "7-44.webp"
+        },
+        {
+          "image_file": "7-45.webp"
+        },
+        {
+          "image_file": "7-46.webp"
+        },
+        {
+          "image_file": "7-47.webp"
+        },
+        {
+          "image_file": "7-48.webp"
+        },
+        {
+          "image_file": "7-49.webp"
+        },
+        {
+          "image_file": "7-50.webp"
+        },
+        {
+          "image_file": "7-51.webp"
+        },
+        {
+          "image_file": "7-52.webp"
+        },
+        {
+          "image_file": "7-53.webp"
+        },
+        {
+          "image_file": "7-54.webp"
+        },
+        {
+          "image_file": "7-55.webp"
+        },
+        {
+          "image_file": "7-56.webp"
+        },
+        {
+          "image_file": "7-57.webp"
+        },
+        {
+          "image_file": "7-58.webp"
+        },
+        {
+          "image_file": "7-59.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "6776947C-FED3-4F0E-B4E0-269EFC3E6485",
+        "name": "Sticker Pack PoliPD 22",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-8.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "8-0.webp"
+        },
+        {
+          "image_file": "8-1.webp"
+        },
+        {
+          "image_file": "8-2.webp"
+        },
+        {
+          "image_file": "8-3.webp"
+        },
+        {
+          "image_file": "8-4.webp"
+        },
+        {
+          "image_file": "8-5.webp"
+        },
+        {
+          "image_file": "8-6.webp"
+        },
+        {
+          "image_file": "8-7.webp"
+        },
+        {
+          "image_file": "8-8.webp"
+        },
+        {
+          "image_file": "8-9.webp"
+        },
+        {
+          "image_file": "8-10.webp"
+        },
+        {
+          "image_file": "8-11.webp"
+        },
+        {
+          "image_file": "8-12.webp"
+        },
+        {
+          "image_file": "8-13.webp"
+        },
+        {
+          "image_file": "8-14.webp"
+        },
+        {
+          "image_file": "8-15.webp"
+        },
+        {
+          "image_file": "8-16.webp"
+        },
+        {
+          "image_file": "8-17.webp"
+        },
+        {
+          "image_file": "8-18.webp"
+        },
+        {
+          "image_file": "8-19.webp"
+        },
+        {
+          "image_file": "8-20.webp"
+        },
+        {
+          "image_file": "8-21.webp"
+        },
+        {
+          "image_file": "8-22.webp"
+        },
+        {
+          "image_file": "8-23.webp"
+        },
+        {
+          "image_file": "8-24.webp"
+        },
+        {
+          "image_file": "8-25.webp"
+        },
+        {
+          "image_file": "8-26.webp"
+        },
+        {
+          "image_file": "8-27.webp"
+        },
+        {
+          "image_file": "8-28.webp"
+        },
+        {
+          "image_file": "8-29.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "865909E7-277C-46A1-BFF9-C8A5B46F375E",
+        "name": "Sticker Pack PoliPD 23",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-8.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "8-30.webp"
+        },
+        {
+          "image_file": "8-31.webp"
+        },
+        {
+          "image_file": "8-32.webp"
+        },
+        {
+          "image_file": "8-33.webp"
+        },
+        {
+          "image_file": "8-34.webp"
+        },
+        {
+          "image_file": "8-35.webp"
+        },
+        {
+          "image_file": "8-36.webp"
+        },
+        {
+          "image_file": "8-37.webp"
+        },
+        {
+          "image_file": "8-38.webp"
+        },
+        {
+          "image_file": "8-39.webp"
+        },
+        {
+          "image_file": "8-40.webp"
+        },
+        {
+          "image_file": "8-41.webp"
+        },
+        {
+          "image_file": "8-42.webp"
+        },
+        {
+          "image_file": "8-43.webp"
+        },
+        {
+          "image_file": "8-44.webp"
+        },
+        {
+          "image_file": "8-45.webp"
+        },
+        {
+          "image_file": "8-46.webp"
+        },
+        {
+          "image_file": "8-47.webp"
+        },
+        {
+          "image_file": "8-48.webp"
+        },
+        {
+          "image_file": "8-49.webp"
+        },
+        {
+          "image_file": "8-50.webp"
+        },
+        {
+          "image_file": "8-51.webp"
+        },
+        {
+          "image_file": "8-52.webp"
+        },
+        {
+          "image_file": "8-53.webp"
+        },
+        {
+          "image_file": "8-54.webp"
+        },
+        {
+          "image_file": "8-55.webp"
+        },
+        {
+          "image_file": "8-56.webp"
+        },
+        {
+          "image_file": "8-57.webp"
+        },
+        {
+          "image_file": "8-58.webp"
+        },
+        {
+          "image_file": "8-59.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "574A425A-B752-4CDA-BD23-4CC27AA42D97",
+        "name": "Sticker Pack PoliPD 24",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-8.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "8-60.webp"
+        },
+        {
+          "image_file": "8-61.webp"
+        },
+        {
+          "image_file": "8-62.webp"
+        },
+        {
+          "image_file": "8-63.webp"
+        },
+        {
+          "image_file": "8-64.webp"
+        },
+        {
+          "image_file": "8-65.webp"
+        },
+        {
+          "image_file": "8-66.webp"
+        },
+        {
+          "image_file": "8-67.webp"
+        },
+        {
+          "image_file": "8-68.webp"
+        },
+        {
+          "image_file": "8-69.webp"
+        },
+        {
+          "image_file": "8-70.webp"
+        },
+        {
+          "image_file": "8-71.webp"
+        },
+        {
+          "image_file": "8-72.webp"
+        },
+        {
+          "image_file": "8-73.webp"
+        },
+        {
+          "image_file": "8-74.webp"
+        },
+        {
+          "image_file": "8-75.webp"
+        },
+        {
+          "image_file": "8-76.webp"
+        },
+        {
+          "image_file": "8-77.webp"
+        },
+        {
+          "image_file": "8-78.webp"
+        },
+        {
+          "image_file": "8-79.webp"
+        },
+        {
+          "image_file": "8-80.webp"
+        },
+        {
+          "image_file": "8-81.webp"
+        },
+        {
+          "image_file": "8-82.webp"
+        },
+        {
+          "image_file": "8-83.webp"
+        },
+        {
+          "image_file": "8-84.webp"
+        },
+        {
+          "image_file": "8-85.webp"
+        },
+        {
+          "image_file": "8-86.webp"
+        },
+        {
+          "image_file": "8-87.webp"
+        },
+        {
+          "image_file": "8-88.webp"
+        },
+        {
+          "image_file": "8-89.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "75F19C30-2831-47AC-A4B0-1A23C3B3BC5C",
+        "name": "Sticker Pack PoliPD 25",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-8.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "8-90.webp"
+        },
+        {
+          "image_file": "8-91.webp"
+        },
+        {
+          "image_file": "8-92.webp"
+        },
+        {
+          "image_file": "8-93.webp"
+        },
+        {
+          "image_file": "8-94.webp"
+        },
+        {
+          "image_file": "8-95.webp"
+        },
+        {
+          "image_file": "8-96.webp"
+        },
+        {
+          "image_file": "8-97.webp"
+        },
+        {
+          "image_file": "8-98.webp"
+        },
+        {
+          "image_file": "8-99.webp"
+        },
+        {
+          "image_file": "8-100.webp"
+        },
+        {
+          "image_file": "8-101.webp"
+        },
+        {
+          "image_file": "8-102.webp"
+        },
+        {
+          "image_file": "8-103.webp"
+        },
+        {
+          "image_file": "8-104.webp"
+        },
+        {
+          "image_file": "8-105.webp"
+        },
+        {
+          "image_file": "8-106.webp"
+        },
+        {
+          "image_file": "8-107.webp"
+        },
+        {
+          "image_file": "8-108.webp"
+        },
+        {
+          "image_file": "8-109.webp"
+        },
+        {
+          "image_file": "8-110.webp"
+        },
+        {
+          "image_file": "8-111.webp"
+        },
+        {
+          "image_file": "8-112.webp"
+        },
+        {
+          "image_file": "8-113.webp"
+        },
+        {
+          "image_file": "8-114.webp"
+        },
+        {
+          "image_file": "8-115.webp"
+        },
+        {
+          "image_file": "8-116.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "C9F2F585-A5C1-4D81-897E-8353FA18156C",
+        "name": "Sticker Pack PoliPD 26",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-9.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "9-0.webp"
+        },
+        {
+          "image_file": "9-1.webp"
+        },
+        {
+          "image_file": "9-2.webp"
+        },
+        {
+          "image_file": "9-3.webp"
+        },
+        {
+          "image_file": "9-4.webp"
+        },
+        {
+          "image_file": "9-5.webp"
+        },
+        {
+          "image_file": "9-6.webp"
+        },
+        {
+          "image_file": "9-7.webp"
+        },
+        {
+          "image_file": "9-8.webp"
+        },
+        {
+          "image_file": "9-9.webp"
+        },
+        {
+          "image_file": "9-10.webp"
+        },
+        {
+          "image_file": "9-11.webp"
+        },
+        {
+          "image_file": "9-12.webp"
+        },
+        {
+          "image_file": "9-13.webp"
+        },
+        {
+          "image_file": "9-14.webp"
+        },
+        {
+          "image_file": "9-15.webp"
+        },
+        {
+          "image_file": "9-16.webp"
+        },
+        {
+          "image_file": "9-17.webp"
+        },
+        {
+          "image_file": "9-18.webp"
+        },
+        {
+          "image_file": "9-19.webp"
+        },
+        {
+          "image_file": "9-20.webp"
+        },
+        {
+          "image_file": "9-21.webp"
+        },
+        {
+          "image_file": "9-22.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "711DF950-A9C0-4B54-9218-18661E619660",
+        "name": "Sticker Pack PoliPD 27",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-10.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "10-0.webp"
+        },
+        {
+          "image_file": "10-1.webp"
+        },
+        {
+          "image_file": "10-2.webp"
+        },
+        {
+          "image_file": "10-3.webp"
+        },
+        {
+          "image_file": "10-4.webp"
+        },
+        {
+          "image_file": "10-5.webp"
+        },
+        {
+          "image_file": "10-6.webp"
+        },
+        {
+          "image_file": "10-7.webp"
+        },
+        {
+          "image_file": "10-8.webp"
+        },
+        {
+          "image_file": "10-9.webp"
+        },
+        {
+          "image_file": "10-10.webp"
+        },
+        {
+          "image_file": "10-11.webp"
+        },
+        {
+          "image_file": "10-12.webp"
+        },
+        {
+          "image_file": "10-13.webp"
+        },
+        {
+          "image_file": "10-14.webp"
+        },
+        {
+          "image_file": "10-15.webp"
+        },
+        {
+          "image_file": "10-16.webp"
+        },
+        {
+          "image_file": "10-17.webp"
+        },
+        {
+          "image_file": "10-18.webp"
+        },
+        {
+          "image_file": "10-19.webp"
+        },
+        {
+          "image_file": "10-20.webp"
+        },
+        {
+          "image_file": "10-21.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "8C8255EF-4F67-402A-B559-73013776D1EB",
+        "name": "Sticker Pack PoliPD 28",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-11.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "11-0.webp"
+        },
+        {
+          "image_file": "11-1.webp"
+        },
+        {
+          "image_file": "11-2.webp"
+        },
+        {
+          "image_file": "11-3.webp"
+        },
+        {
+          "image_file": "11-4.webp"
+        },
+        {
+          "image_file": "11-5.webp"
+        },
+        {
+          "image_file": "11-6.webp"
+        },
+        {
+          "image_file": "11-7.webp"
+        },
+        {
+          "image_file": "11-8.webp"
+        },
+        {
+          "image_file": "11-9.webp"
+        },
+        {
+          "image_file": "11-10.webp"
+        },
+        {
+          "image_file": "11-11.webp"
+        },
+        {
+          "image_file": "11-12.webp"
+        },
+        {
+          "image_file": "11-13.webp"
+        },
+        {
+          "image_file": "11-14.webp"
+        },
+        {
+          "image_file": "11-15.webp"
+        },
+        {
+          "image_file": "11-16.webp"
+        },
+        {
+          "image_file": "11-17.webp"
+        },
+        {
+          "image_file": "11-18.webp"
+        },
+        {
+          "image_file": "11-19.webp"
+        },
+        {
+          "image_file": "11-20.webp"
+        },
+        {
+          "image_file": "11-21.webp"
+        },
+        {
+          "image_file": "11-22.webp"
+        },
+        {
+          "image_file": "11-23.webp"
+        },
+        {
+          "image_file": "11-24.webp"
+        },
+        {
+          "image_file": "11-25.webp"
+        },
+        {
+          "image_file": "11-26.webp"
+        },
+        {
+          "image_file": "11-27.webp"
+        },
+        {
+          "image_file": "11-28.webp"
+        },
+        {
+          "image_file": "11-29.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "1B2F96B6-C490-4794-A892-1CF5077F11B5",
+        "name": "Sticker Pack PoliPD 29",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-11.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "11-30.webp"
+        },
+        {
+          "image_file": "11-31.webp"
+        },
+        {
+          "image_file": "11-32.webp"
+        },
+        {
+          "image_file": "11-33.webp"
+        },
+        {
+          "image_file": "11-34.webp"
+        },
+        {
+          "image_file": "11-35.webp"
+        },
+        {
+          "image_file": "11-36.webp"
+        },
+        {
+          "image_file": "11-37.webp"
+        },
+        {
+          "image_file": "11-38.webp"
+        },
+        {
+          "image_file": "11-39.webp"
+        },
+        {
+          "image_file": "11-40.webp"
+        },
+        {
+          "image_file": "11-41.webp"
+        },
+        {
+          "image_file": "11-42.webp"
+        },
+        {
+          "image_file": "11-43.webp"
+        },
+        {
+          "image_file": "11-44.webp"
+        },
+        {
+          "image_file": "11-45.webp"
+        },
+        {
+          "image_file": "11-46.webp"
+        },
+        {
+          "image_file": "11-47.webp"
+        },
+        {
+          "image_file": "11-48.webp"
+        },
+        {
+          "image_file": "11-49.webp"
+        },
+        {
+          "image_file": "11-50.webp"
+        },
+        {
+          "image_file": "11-51.webp"
+        },
+        {
+          "image_file": "11-52.webp"
+        },
+        {
+          "image_file": "11-53.webp"
+        },
+        {
+          "image_file": "11-54.webp"
+        },
+        {
+          "image_file": "11-55.webp"
+        },
+        {
+          "image_file": "11-56.webp"
+        },
+        {
+          "image_file": "11-57.webp"
+        },
+        {
+          "image_file": "11-58.webp"
+        },
+        {
+          "image_file": "11-59.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "A659F9B4-5E35-4903-ABFF-BB9C314786EC",
+        "name": "Sticker Pack PoliPD 30",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-11.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "11-60.webp"
+        },
+        {
+          "image_file": "11-61.webp"
+        },
+        {
+          "image_file": "11-62.webp"
+        },
+        {
+          "image_file": "11-63.webp"
+        },
+        {
+          "image_file": "11-64.webp"
+        },
+        {
+          "image_file": "11-65.webp"
+        },
+        {
+          "image_file": "11-66.webp"
+        },
+        {
+          "image_file": "11-67.webp"
+        },
+        {
+          "image_file": "11-68.webp"
+        },
+        {
+          "image_file": "11-69.webp"
+        },
+        {
+          "image_file": "11-70.webp"
+        },
+        {
+          "image_file": "11-71.webp"
+        },
+        {
+          "image_file": "11-72.webp"
+        },
+        {
+          "image_file": "11-73.webp"
+        },
+        {
+          "image_file": "11-74.webp"
+        },
+        {
+          "image_file": "11-75.webp"
+        },
+        {
+          "image_file": "11-76.webp"
+        },
+        {
+          "image_file": "11-77.webp"
+        },
+        {
+          "image_file": "11-78.webp"
+        },
+        {
+          "image_file": "11-79.webp"
+        },
+        {
+          "image_file": "11-80.webp"
+        },
+        {
+          "image_file": "11-81.webp"
+        },
+        {
+          "image_file": "11-82.webp"
+        },
+        {
+          "image_file": "11-83.webp"
+        },
+        {
+          "image_file": "11-84.webp"
+        },
+        {
+          "image_file": "11-85.webp"
+        },
+        {
+          "image_file": "11-86.webp"
+        },
+        {
+          "image_file": "11-87.webp"
+        },
+        {
+          "image_file": "11-88.webp"
+        },
+        {
+          "image_file": "11-89.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "2422A6AD-352D-4013-9C47-A6D9923488D9",
+        "name": "Sticker Pack PoliPD 31",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-11.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "11-90.webp"
+        },
+        {
+          "image_file": "11-91.webp"
+        },
+        {
+          "image_file": "11-92.webp"
+        },
+        {
+          "image_file": "11-93.webp"
+        },
+        {
+          "image_file": "11-94.webp"
+        },
+        {
+          "image_file": "11-95.webp"
+        },
+        {
+          "image_file": "11-96.webp"
+        },
+        {
+          "image_file": "11-97.webp"
+        },
+        {
+          "image_file": "11-98.webp"
+        },
+        {
+          "image_file": "11-99.webp"
+        },
+        {
+          "image_file": "11-100.webp"
+        },
+        {
+          "image_file": "11-101.webp"
+        },
+        {
+          "image_file": "11-102.webp"
+        },
+        {
+          "image_file": "11-103.webp"
+        },
+        {
+          "image_file": "11-104.webp"
+        },
+        {
+          "image_file": "11-105.webp"
+        },
+        {
+          "image_file": "11-106.webp"
+        },
+        {
+          "image_file": "11-107.webp"
+        },
+        {
+          "image_file": "11-108.webp"
+        },
+        {
+          "image_file": "11-109.webp"
+        },
+        {
+          "image_file": "11-110.webp"
+        },
+        {
+          "image_file": "11-111.webp"
+        },
+        {
+          "image_file": "11-112.webp"
+        },
+        {
+          "image_file": "11-113.webp"
+        },
+        {
+          "image_file": "11-114.webp"
+        },
+        {
+          "image_file": "11-115.webp"
+        },
+        {
+          "image_file": "11-116.webp"
+        },
+        {
+          "image_file": "11-117.webp"
+        },
+        {
+          "image_file": "11-118.webp"
+        },
+        {
+          "image_file": "11-119.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "E8CAE490-9CE0-46EE-9056-5B2BBBB03767",
+        "name": "Sticker Pack PoliPD 32",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-12.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "12-0.webp"
+        },
+        {
+          "image_file": "12-1.webp"
+        },
+        {
+          "image_file": "12-2.webp"
+        },
+        {
+          "image_file": "12-3.webp"
+        },
+        {
+          "image_file": "12-4.webp"
+        },
+        {
+          "image_file": "12-5.webp"
+        },
+        {
+          "image_file": "12-6.webp"
+        },
+        {
+          "image_file": "12-7.webp"
+        },
+        {
+          "image_file": "12-8.webp"
+        },
+        {
+          "image_file": "12-9.webp"
+        },
+        {
+          "image_file": "12-10.webp"
+        },
+        {
+          "image_file": "12-11.webp"
+        },
+        {
+          "image_file": "12-12.webp"
+        },
+        {
+          "image_file": "12-13.webp"
+        },
+        {
+          "image_file": "12-14.webp"
+        },
+        {
+          "image_file": "12-15.webp"
+        },
+        {
+          "image_file": "12-16.webp"
+        },
+        {
+          "image_file": "12-17.webp"
+        },
+        {
+          "image_file": "12-18.webp"
+        },
+        {
+          "image_file": "12-19.webp"
+        },
+        {
+          "image_file": "12-20.webp"
+        },
+        {
+          "image_file": "12-21.webp"
+        },
+        {
+          "image_file": "12-22.webp"
+        },
+        {
+          "image_file": "12-23.webp"
+        },
+        {
+          "image_file": "12-24.webp"
+        },
+        {
+          "image_file": "12-25.webp"
+        },
+        {
+          "image_file": "12-26.webp"
+        },
+        {
+          "image_file": "12-27.webp"
+        },
+        {
+          "image_file": "12-28.webp"
+        },
+        {
+          "image_file": "12-29.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "A679F441-32B0-46E5-84E7-C7288F5E6CAE",
+        "name": "Sticker Pack PoliPD 33",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-12.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "12-30.webp"
+        },
+        {
+          "image_file": "12-31.webp"
+        },
+        {
+          "image_file": "12-32.webp"
+        },
+        {
+          "image_file": "12-33.webp"
+        },
+        {
+          "image_file": "12-34.webp"
+        },
+        {
+          "image_file": "12-35.webp"
+        },
+        {
+          "image_file": "12-36.webp"
+        },
+        {
+          "image_file": "12-37.webp"
+        },
+        {
+          "image_file": "12-38.webp"
+        },
+        {
+          "image_file": "12-39.webp"
+        },
+        {
+          "image_file": "12-40.webp"
+        },
+        {
+          "image_file": "12-41.webp"
+        },
+        {
+          "image_file": "12-42.webp"
+        },
+        {
+          "image_file": "12-43.webp"
+        },
+        {
+          "image_file": "12-44.webp"
+        },
+        {
+          "image_file": "12-45.webp"
+        },
+        {
+          "image_file": "12-46.webp"
+        },
+        {
+          "image_file": "12-47.webp"
+        },
+        {
+          "image_file": "12-48.webp"
+        },
+        {
+          "image_file": "12-49.webp"
+        },
+        {
+          "image_file": "12-50.webp"
+        },
+        {
+          "image_file": "12-51.webp"
+        },
+        {
+          "image_file": "12-52.webp"
+        },
+        {
+          "image_file": "12-53.webp"
+        },
+        {
+          "image_file": "12-54.webp"
+        },
+        {
+          "image_file": "12-55.webp"
+        },
+        {
+          "image_file": "12-56.webp"
+        },
+        {
+          "image_file": "12-57.webp"
+        },
+        {
+          "image_file": "12-58.webp"
+        },
+        {
+          "image_file": "12-59.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "964C3846-3E21-4796-B165-D38DF607E73F",
+        "name": "Sticker Pack PoliPD 34",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-12.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "12-60.webp"
+        },
+        {
+          "image_file": "12-61.webp"
+        },
+        {
+          "image_file": "12-62.webp"
+        },
+        {
+          "image_file": "12-63.webp"
+        },
+        {
+          "image_file": "12-64.webp"
+        },
+        {
+          "image_file": "12-65.webp"
+        },
+        {
+          "image_file": "12-66.webp"
+        },
+        {
+          "image_file": "12-67.webp"
+        },
+        {
+          "image_file": "12-68.webp"
+        },
+        {
+          "image_file": "12-69.webp"
+        },
+        {
+          "image_file": "12-70.webp"
+        },
+        {
+          "image_file": "12-71.webp"
+        },
+        {
+          "image_file": "12-72.webp"
+        },
+        {
+          "image_file": "12-73.webp"
+        },
+        {
+          "image_file": "12-74.webp"
+        },
+        {
+          "image_file": "12-75.webp"
+        },
+        {
+          "image_file": "12-76.webp"
+        },
+        {
+          "image_file": "12-77.webp"
+        },
+        {
+          "image_file": "12-78.webp"
+        },
+        {
+          "image_file": "12-79.webp"
+        },
+        {
+          "image_file": "12-80.webp"
+        },
+        {
+          "image_file": "12-81.webp"
+        },
+        {
+          "image_file": "12-82.webp"
+        },
+        {
+          "image_file": "12-83.webp"
+        },
+        {
+          "image_file": "12-84.webp"
+        },
+        {
+          "image_file": "12-85.webp"
+        },
+        {
+          "image_file": "12-86.webp"
+        },
+        {
+          "image_file": "12-87.webp"
+        },
+        {
+          "image_file": "12-88.webp"
+        },
+        {
+          "image_file": "12-89.webp"
+        }
+      ]
+    },
+    {
+        "identifier": "97244D16-D6EA-449C-8162-41EC060DAAE2",
+        "name": "Sticker Pack PoliPD 35",
+        "publisher": "Satin copyright © 2021",
+        "tray_image_file" : "icon-12.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+          "image_file": "12-90.webp"
+        },
+        {
+          "image_file": "12-91.webp"
+        },
+        {
+          "image_file": "12-92.webp"
+        },
+        {
+          "image_file": "12-93.webp"
+        },
+        {
+          "image_file": "12-94.webp"
+        },
+        {
+          "image_file": "12-95.webp"
+        },
+        {
+          "image_file": "12-96.webp"
+        },
+        {
+          "image_file": "12-97.webp"
+        },
+        {
+          "image_file": "12-98.webp"
+        },
+        {
+          "image_file": "12-99.webp"
+        },
+        {
+          "image_file": "12-100.webp"
+        },
+        {
+          "image_file": "12-101.webp"
+        },
+        {
+          "image_file": "12-102.webp"
+        },
+        {
+          "image_file": "12-103.webp"
+        },
+        {
+          "image_file": "12-104.webp"
+        },
+        {
+          "image_file": "12-105.webp"
+        },
+        {
+          "image_file": "12-106.webp"
+        },
+        {
+          "image_file": "12-107.webp"
+        },
+        {
+          "image_file": "12-108.webp"
+        },
+        {
+          "image_file": "12-109.webp"
+        },
+        {
+          "image_file": "12-110.webp"
+        },
+        {
+          "image_file": "12-111.webp"
+        },
+        {
+          "image_file": "12-112.webp"
+        },
+        {
+          "image_file": "12-113.webp"
+        },
+        {
+          "image_file": "12-114.webp"
+        },
+        {
+          "image_file": "12-115.webp"
+        },
+        {
+          "image_file": "12-116.webp"
+        },
+        {
+          "image_file": "12-117.webp"
+        },
+        {
+          "image_file": "12-118.webp"
+        },
+        {
+          "image_file": "12-119.webp"
         }
       ]
     }]
