@@ -245,7 +245,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0930;
-				ORGANIZATIONNAME = WhatsApp;
+				ORGANIZATIONNAME = "Growtopia Jaw";
 				TargetAttributes = {
 					8A22EDFF1F9A9F40003A7F21 = {
 						CreatedOnToolsVersion = 9.0;
