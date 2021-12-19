@@ -38,6 +38,7 @@
 		8ABEBD8421029767005F348C /* WebP.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8ABEBD8321029766005F348C /* WebP.framework */; };
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
+		93045DE5276EFCFC00ECBA00 /* 13-12.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93045DE4276EFCFC00ECBA00 /* 13-12.webp */; };
 		9364821F27689FCC004ED4FF /* 30.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93647E5F27689F27004ED4FF /* 30.webp */; };
 		9364822027689FCC004ED4FF /* 11-34.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93647E6027689F28004ED4FF /* 11-34.webp */; };
 		9364822127689FCC004ED4FF /* 11-15.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93647E6127689F28004ED4FF /* 11-15.webp */; };
@@ -1074,6 +1075,7 @@
 		8ABEBD8321029766005F348C /* WebP.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = WebP.framework; sourceTree = "<group>"; };
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
+		93045DE4276EFCFC00ECBA00 /* 13-12.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-12.webp"; sourceTree = "<group>"; };
 		93647E5F27689F27004ED4FF /* 30.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 30.webp; sourceTree = "<group>"; };
 		93647E6027689F28004ED4FF /* 11-34.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "11-34.webp"; sourceTree = "<group>"; };
 		93647E6127689F28004ED4FF /* 11-15.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "11-15.webp"; sourceTree = "<group>"; };
@@ -2122,6 +2124,7 @@
 		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
 			isa = PBXGroup;
 			children = (
+				93045DE4276EFCFC00ECBA00 /* 13-12.webp */,
 				93D94B2F276ECA6600B23473 /* 13-0.webp */,
 				93D94B2D276ECA6600B23473 /* 13-1.webp */,
 				93D94B2A276ECA6500B23473 /* 13-2.webp */,
@@ -3906,6 +3909,7 @@
 				9364838D27689FCD004ED4FF /* 12-15.webp in Resources */,
 				9364843C27689FCD004ED4FF /* 69.webp in Resources */,
 				9364841A27689FCD004ED4FF /* 70.webp in Resources */,
+				93045DE5276EFCFC00ECBA00 /* 13-12.webp in Resources */,
 				9364836927689FCD004ED4FF /* 11-39.webp in Resources */,
 				9364824027689FCC004ED4FF /* 7-55.webp in Resources */,
 				936484D427689FCE004ED4FF /* 11-66.webp in Resources */,
@@ -4366,7 +4370,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 3.0;
+				MARKETING_VERSION = 4.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.duckdns.gjaw.sticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
@@ -4391,7 +4395,7 @@
 				INFOPLIST_FILE = WAStickersThirdParty/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 3.0;
+				MARKETING_VERSION = 4.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.duckdns.gjaw.sticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
