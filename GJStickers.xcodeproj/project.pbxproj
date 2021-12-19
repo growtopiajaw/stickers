@@ -998,6 +998,19 @@
 		936485DC27689FCE004ED4FF /* 1-67.webp in Resources */ = {isa = PBXBuildFile; fileRef = 9364821C27689FCB004ED4FF /* 1-67.webp */; };
 		936485DD27689FCE004ED4FF /* 8-52.webp in Resources */ = {isa = PBXBuildFile; fileRef = 9364821D27689FCB004ED4FF /* 8-52.webp */; };
 		936485DE27689FCE004ED4FF /* 51.webp in Resources */ = {isa = PBXBuildFile; fileRef = 9364821E27689FCB004ED4FF /* 51.webp */; };
+		93D94B30276ECA6600B23473 /* 13-11.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B23276ECA6300B23473 /* 13-11.webp */; };
+		93D94B31276ECA6600B23473 /* icon-13.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B24276ECA6300B23473 /* icon-13.webp */; };
+		93D94B32276ECA6600B23473 /* 13-5.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B25276ECA6400B23473 /* 13-5.webp */; };
+		93D94B33276ECA6600B23473 /* 13-10.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B26276ECA6400B23473 /* 13-10.webp */; };
+		93D94B34276ECA6600B23473 /* 13-6.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B27276ECA6400B23473 /* 13-6.webp */; };
+		93D94B35276ECA6600B23473 /* 13-9.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B28276ECA6500B23473 /* 13-9.webp */; };
+		93D94B36276ECA6600B23473 /* 13-3.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B29276ECA6500B23473 /* 13-3.webp */; };
+		93D94B37276ECA6600B23473 /* 13-2.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B2A276ECA6500B23473 /* 13-2.webp */; };
+		93D94B38276ECA6600B23473 /* 13-7.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B2B276ECA6500B23473 /* 13-7.webp */; };
+		93D94B39276ECA6600B23473 /* 13-4.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B2C276ECA6500B23473 /* 13-4.webp */; };
+		93D94B3A276ECA6600B23473 /* 13-1.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B2D276ECA6600B23473 /* 13-1.webp */; };
+		93D94B3B276ECA6600B23473 /* 13-8.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B2E276ECA6600B23473 /* 13-8.webp */; };
+		93D94B3C276ECA6600B23473 /* 13-0.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B2F276ECA6600B23473 /* 13-0.webp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -2021,6 +2034,19 @@
 		9364821C27689FCB004ED4FF /* 1-67.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "1-67.webp"; sourceTree = "<group>"; };
 		9364821D27689FCB004ED4FF /* 8-52.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "8-52.webp"; sourceTree = "<group>"; };
 		9364821E27689FCB004ED4FF /* 51.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 51.webp; sourceTree = "<group>"; };
+		93D94B23276ECA6300B23473 /* 13-11.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-11.webp"; sourceTree = "<group>"; };
+		93D94B24276ECA6300B23473 /* icon-13.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "icon-13.webp"; sourceTree = "<group>"; };
+		93D94B25276ECA6400B23473 /* 13-5.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-5.webp"; sourceTree = "<group>"; };
+		93D94B26276ECA6400B23473 /* 13-10.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-10.webp"; sourceTree = "<group>"; };
+		93D94B27276ECA6400B23473 /* 13-6.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-6.webp"; sourceTree = "<group>"; };
+		93D94B28276ECA6500B23473 /* 13-9.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-9.webp"; sourceTree = "<group>"; };
+		93D94B29276ECA6500B23473 /* 13-3.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-3.webp"; sourceTree = "<group>"; };
+		93D94B2A276ECA6500B23473 /* 13-2.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-2.webp"; sourceTree = "<group>"; };
+		93D94B2B276ECA6500B23473 /* 13-7.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-7.webp"; sourceTree = "<group>"; };
+		93D94B2C276ECA6500B23473 /* 13-4.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-4.webp"; sourceTree = "<group>"; };
+		93D94B2D276ECA6600B23473 /* 13-1.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-1.webp"; sourceTree = "<group>"; };
+		93D94B2E276ECA6600B23473 /* 13-8.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-8.webp"; sourceTree = "<group>"; };
+		93D94B2F276ECA6600B23473 /* 13-0.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-0.webp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2096,6 +2122,19 @@
 		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
 			isa = PBXGroup;
 			children = (
+				93D94B2F276ECA6600B23473 /* 13-0.webp */,
+				93D94B2D276ECA6600B23473 /* 13-1.webp */,
+				93D94B2A276ECA6500B23473 /* 13-2.webp */,
+				93D94B29276ECA6500B23473 /* 13-3.webp */,
+				93D94B2C276ECA6500B23473 /* 13-4.webp */,
+				93D94B25276ECA6400B23473 /* 13-5.webp */,
+				93D94B27276ECA6400B23473 /* 13-6.webp */,
+				93D94B2B276ECA6500B23473 /* 13-7.webp */,
+				93D94B2E276ECA6600B23473 /* 13-8.webp */,
+				93D94B28276ECA6500B23473 /* 13-9.webp */,
+				93D94B26276ECA6400B23473 /* 13-10.webp */,
+				93D94B23276ECA6300B23473 /* 13-11.webp */,
+				93D94B24276ECA6300B23473 /* icon-13.webp */,
 				93647E8327689F2C004ED4FF /* 0.webp */,
 				936481A227689FAE004ED4FF /* 1-0.webp */,
 				936480B227689F80004ED4FF /* 1-1.webp */,
@@ -3195,6 +3234,7 @@
 				9364823427689FCC004ED4FF /* 12-6.webp in Resources */,
 				936484D127689FCE004ED4FF /* 5-87.webp in Resources */,
 				936484B827689FCE004ED4FF /* 31.webp in Resources */,
+				93D94B35276ECA6600B23473 /* 13-9.webp in Resources */,
 				8A27F12F1FD9E733001B2BBD /* SecondaryTextTableViewCell.xib in Resources */,
 				9364846827689FCE004ED4FF /* 5-88.webp in Resources */,
 				9364856227689FCE004ED4FF /* 1-0.webp in Resources */,
@@ -3238,6 +3278,7 @@
 				9364844D27689FCD004ED4FF /* 10-11.webp in Resources */,
 				936483D327689FCD004ED4FF /* 12-19.webp in Resources */,
 				9364835327689FCD004ED4FF /* 8-39.webp in Resources */,
+				93D94B38276ECA6600B23473 /* 13-7.webp in Resources */,
 				9364826927689FCC004ED4FF /* 3-11.webp in Resources */,
 				936483AF27689FCD004ED4FF /* 6-7.webp in Resources */,
 				9364834127689FCC004ED4FF /* 5-54.webp in Resources */,
@@ -3251,6 +3292,7 @@
 				936482DD27689FCC004ED4FF /* 6-59.webp in Resources */,
 				9364825827689FCC004ED4FF /* 12-62.webp in Resources */,
 				9364854527689FCE004ED4FF /* 7-40.webp in Resources */,
+				93D94B30276ECA6600B23473 /* 13-11.webp in Resources */,
 				9364835D27689FCD004ED4FF /* 8-78.webp in Resources */,
 				9364826627689FCC004ED4FF /* 1-14.webp in Resources */,
 				9364832127689FCC004ED4FF /* 2-14.webp in Resources */,
@@ -3349,6 +3391,7 @@
 				9364828827689FCC004ED4FF /* 12-107.webp in Resources */,
 				9364826127689FCC004ED4FF /* 50.webp in Resources */,
 				936482BC27689FCC004ED4FF /* 7-35.webp in Resources */,
+				93D94B31276ECA6600B23473 /* icon-13.webp in Resources */,
 				9364859727689FCE004ED4FF /* 3-46.webp in Resources */,
 				9364833927689FCC004ED4FF /* 8-35.webp in Resources */,
 				9364849127689FCE004ED4FF /* 5-55.webp in Resources */,
@@ -3369,6 +3412,7 @@
 				9364857A27689FCE004ED4FF /* 8-104.webp in Resources */,
 				936483F027689FCD004ED4FF /* 5-34.webp in Resources */,
 				936483C027689FCD004ED4FF /* 8-80.webp in Resources */,
+				93D94B32276ECA6600B23473 /* 13-5.webp in Resources */,
 				936484CB27689FCE004ED4FF /* 7-41.webp in Resources */,
 				9364859127689FCE004ED4FF /* 1-112.webp in Resources */,
 				9364833727689FCC004ED4FF /* 11-47.webp in Resources */,
@@ -3391,6 +3435,7 @@
 				936483F527689FCD004ED4FF /* 6-23.webp in Resources */,
 				9364854227689FCE004ED4FF /* 12-115.webp in Resources */,
 				9364840C27689FCD004ED4FF /* 2-23.webp in Resources */,
+				93D94B3C276ECA6600B23473 /* 13-0.webp in Resources */,
 				936484DF27689FCE004ED4FF /* 8-59.webp in Resources */,
 				9364857027689FCE004ED4FF /* 2-34.webp in Resources */,
 				9364841327689FCD004ED4FF /* 1-95.webp in Resources */,
@@ -3405,6 +3450,7 @@
 				9364833227689FCC004ED4FF /* 12-96.webp in Resources */,
 				936485B527689FCE004ED4FF /* 7-51.webp in Resources */,
 				936484A427689FCE004ED4FF /* 5-29.webp in Resources */,
+				93D94B36276ECA6600B23473 /* 13-3.webp in Resources */,
 				9364840627689FCD004ED4FF /* 12-8.webp in Resources */,
 				9364859027689FCE004ED4FF /* 5-1.webp in Resources */,
 				8A27F11C1FD73DD0001B2BBD /* StickerPackTableViewCell.xib in Resources */,
@@ -3515,6 +3561,7 @@
 				9364833D27689FCC004ED4FF /* 8-36.webp in Resources */,
 				9364823B27689FCC004ED4FF /* 8-95.webp in Resources */,
 				936484BB27689FCE004ED4FF /* 3-42.webp in Resources */,
+				93D94B3B276ECA6600B23473 /* 13-8.webp in Resources */,
 				936482C427689FCC004ED4FF /* 11-7.webp in Resources */,
 				9364859B27689FCE004ED4FF /* 6-54.webp in Resources */,
 				9364825027689FCC004ED4FF /* 1-10.webp in Resources */,
@@ -3579,6 +3626,7 @@
 				9364839227689FCD004ED4FF /* 66.webp in Resources */,
 				9364822B27689FCC004ED4FF /* 2-60.webp in Resources */,
 				9364851327689FCE004ED4FF /* 1-88.webp in Resources */,
+				93D94B34276ECA6600B23473 /* 13-6.webp in Resources */,
 				9364839527689FCD004ED4FF /* 6-57.webp in Resources */,
 				9364845527689FCD004ED4FF /* 3.webp in Resources */,
 				936483A627689FCD004ED4FF /* 12-103.webp in Resources */,
@@ -3621,6 +3669,7 @@
 				9364849B27689FCE004ED4FF /* 12-48.webp in Resources */,
 				9364857727689FCE004ED4FF /* 2-5.webp in Resources */,
 				8A27F1311FD9E987001B2BBD /* LinkTableViewCell.xib in Resources */,
+				93D94B39276ECA6600B23473 /* 13-4.webp in Resources */,
 				9364858727689FCE004ED4FF /* 7-34.webp in Resources */,
 				9364839F27689FCD004ED4FF /* 28.webp in Resources */,
 				936485AB27689FCE004ED4FF /* 3-47.webp in Resources */,
@@ -3709,6 +3758,7 @@
 				936482CD27689FCC004ED4FF /* 1-76.webp in Resources */,
 				936483AB27689FCD004ED4FF /* 2-7.webp in Resources */,
 				8A22EE091F9A9F40003A7F21 /* Main.storyboard in Resources */,
+				93D94B3A276ECA6600B23473 /* 13-1.webp in Resources */,
 				9364836827689FCD004ED4FF /* 2-9.webp in Resources */,
 				9364850327689FCE004ED4FF /* 2-15.webp in Resources */,
 				9364833527689FCC004ED4FF /* 5-12.webp in Resources */,
@@ -3848,6 +3898,7 @@
 				936483A327689FCD004ED4FF /* 6-2.webp in Resources */,
 				9364835A27689FCD004ED4FF /* 5-10.webp in Resources */,
 				9364824327689FCC004ED4FF /* 0.webp in Resources */,
+				93D94B33276ECA6600B23473 /* 13-10.webp in Resources */,
 				936485C827689FCE004ED4FF /* 12-113.webp in Resources */,
 				9364839027689FCD004ED4FF /* 1-25.webp in Resources */,
 				9364834B27689FCD004ED4FF /* 1-81.webp in Resources */,
@@ -4079,6 +4130,7 @@
 				936485AD27689FCE004ED4FF /* 11-46.webp in Resources */,
 				9364840227689FCD004ED4FF /* 7-4.webp in Resources */,
 				9364848727689FCE004ED4FF /* 8-99.webp in Resources */,
+				93D94B37276ECA6600B23473 /* 13-2.webp in Resources */,
 				936484A227689FCE004ED4FF /* 8-4.webp in Resources */,
 				9364832627689FCC004ED4FF /* 8-100.webp in Resources */,
 				936482C327689FCC004ED4FF /* 12-88.webp in Resources */,
