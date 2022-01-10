@@ -39,6 +39,7 @@
 		8ACB6A981FE9CB7700A564BB /* Limits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACB6A971FE9CB7700A564BB /* Limits.swift */; };
 		8ADA60761FD71F69006C9BBA /* AllStickerPacksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */; };
 		93045DE5276EFCFC00ECBA00 /* 13-12.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93045DE4276EFCFC00ECBA00 /* 13-12.webp */; };
+		931533C9278C033F00969728 /* 13-13.webp in Resources */ = {isa = PBXBuildFile; fileRef = 931533C8278C033F00969728 /* 13-13.webp */; };
 		9364821F27689FCC004ED4FF /* 30.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93647E5F27689F27004ED4FF /* 30.webp */; };
 		9364822027689FCC004ED4FF /* 11-34.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93647E6027689F28004ED4FF /* 11-34.webp */; };
 		9364822127689FCC004ED4FF /* 11-15.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93647E6127689F28004ED4FF /* 11-15.webp */; };
@@ -1076,6 +1077,7 @@
 		8ACB6A971FE9CB7700A564BB /* Limits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Limits.swift; sourceTree = "<group>"; };
 		8ADA60751FD71F69006C9BBA /* AllStickerPacksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllStickerPacksViewController.swift; sourceTree = "<group>"; };
 		93045DE4276EFCFC00ECBA00 /* 13-12.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-12.webp"; sourceTree = "<group>"; };
+		931533C8278C033F00969728 /* 13-13.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-13.webp"; sourceTree = "<group>"; };
 		93647E5F27689F27004ED4FF /* 30.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = 30.webp; sourceTree = "<group>"; };
 		93647E6027689F28004ED4FF /* 11-34.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "11-34.webp"; sourceTree = "<group>"; };
 		93647E6127689F28004ED4FF /* 11-15.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "11-15.webp"; sourceTree = "<group>"; };
@@ -2133,6 +2135,7 @@
 				93D94B25276ECA6400B23473 /* 13-5.webp */,
 				93D94B27276ECA6400B23473 /* 13-6.webp */,
 				93D94B2B276ECA6500B23473 /* 13-7.webp */,
+				931533C8278C033F00969728 /* 13-13.webp */,
 				93D94B2E276ECA6600B23473 /* 13-8.webp */,
 				93D94B28276ECA6500B23473 /* 13-9.webp */,
 				93D94B26276ECA6400B23473 /* 13-10.webp */,
@@ -3786,6 +3789,7 @@
 				9364850F27689FCE004ED4FF /* 12-78.webp in Resources */,
 				9364822A27689FCC004ED4FF /* 11-79.webp in Resources */,
 				9364827627689FCC004ED4FF /* 8-72.webp in Resources */,
+				931533C9278C033F00969728 /* 13-13.webp in Resources */,
 				936482B227689FCC004ED4FF /* 9-5.webp in Resources */,
 				9364822627689FCC004ED4FF /* 11-2.webp in Resources */,
 				9364825C27689FCC004ED4FF /* 1-17.webp in Resources */,
@@ -4375,7 +4379,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 4.0;
+				MARKETING_VERSION = 5.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.duckdns.gjaw.sticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
@@ -4403,7 +4407,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 4.0;
+				MARKETING_VERSION = 5.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.duckdns.gjaw.sticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
