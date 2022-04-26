@@ -1013,6 +1013,10 @@
 		93D94B3A276ECA6600B23473 /* 13-1.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B2D276ECA6600B23473 /* 13-1.webp */; };
 		93D94B3B276ECA6600B23473 /* 13-8.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B2E276ECA6600B23473 /* 13-8.webp */; };
 		93D94B3C276ECA6600B23473 /* 13-0.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93D94B2F276ECA6600B23473 /* 13-0.webp */; };
+		93DFA5902817A4FD00D80BA4 /* 14-1.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93DFA58D2817A4FC00D80BA4 /* 14-1.webp */; };
+		93DFA5912817A4FD00D80BA4 /* 14-0.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93DFA58E2817A4FD00D80BA4 /* 14-0.webp */; };
+		93DFA5932817A68E00D80BA4 /* icon-14.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93DFA5922817A68D00D80BA4 /* icon-14.webp */; };
+		93DFA5952817AD7F00D80BA4 /* 14-2.webp in Resources */ = {isa = PBXBuildFile; fileRef = 93DFA5942817AD7F00D80BA4 /* 14-2.webp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -2051,6 +2055,10 @@
 		93D94B2D276ECA6600B23473 /* 13-1.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-1.webp"; sourceTree = "<group>"; };
 		93D94B2E276ECA6600B23473 /* 13-8.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-8.webp"; sourceTree = "<group>"; };
 		93D94B2F276ECA6600B23473 /* 13-0.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "13-0.webp"; sourceTree = "<group>"; };
+		93DFA58D2817A4FC00D80BA4 /* 14-1.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "14-1.webp"; sourceTree = "<group>"; };
+		93DFA58E2817A4FD00D80BA4 /* 14-0.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "14-0.webp"; sourceTree = "<group>"; };
+		93DFA5922817A68D00D80BA4 /* icon-14.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = "icon-14.webp"; path = "../../../../Users/growtopiajaw/Downloads/icon-14.webp"; sourceTree = "<group>"; };
+		93DFA5942817AD7F00D80BA4 /* 14-2.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "14-2.webp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2126,7 +2134,11 @@
 		8A26A6A71FEB2E2400256DE8 /* SampleStickers */ = {
 			isa = PBXGroup;
 			children = (
+				93DFA5942817AD7F00D80BA4 /* 14-2.webp */,
+				93DFA58E2817A4FD00D80BA4 /* 14-0.webp */,
+				93DFA58D2817A4FC00D80BA4 /* 14-1.webp */,
 				93045DE4276EFCFC00ECBA00 /* 13-12.webp */,
+				93DFA5922817A68D00D80BA4 /* icon-14.webp */,
 				93D94B2F276ECA6600B23473 /* 13-0.webp */,
 				93D94B2D276ECA6600B23473 /* 13-1.webp */,
 				93D94B2A276ECA6500B23473 /* 13-2.webp */,
@@ -3304,6 +3316,7 @@
 				9364826627689FCC004ED4FF /* 1-14.webp in Resources */,
 				9364832127689FCC004ED4FF /* 2-14.webp in Resources */,
 				9364839427689FCD004ED4FF /* 2-37.webp in Resources */,
+				93DFA5902817A4FD00D80BA4 /* 14-1.webp in Resources */,
 				9364830627689FCC004ED4FF /* 2-64.webp in Resources */,
 				9364847527689FCE004ED4FF /* 6-27.webp in Resources */,
 				9364848C27689FCE004ED4FF /* 12-41.webp in Resources */,
@@ -3852,6 +3865,7 @@
 				9364842F27689FCD004ED4FF /* 1-100.webp in Resources */,
 				9364850D27689FCE004ED4FF /* 1-29.webp in Resources */,
 				936485BD27689FCE004ED4FF /* 2-21.webp in Resources */,
+				93DFA5952817AD7F00D80BA4 /* 14-2.webp in Resources */,
 				9364842727689FCD004ED4FF /* 7-52.webp in Resources */,
 				9364836527689FCD004ED4FF /* 8-17.webp in Resources */,
 				9364857F27689FCE004ED4FF /* 12-108.webp in Resources */,
@@ -3931,6 +3945,7 @@
 				9364850127689FCE004ED4FF /* 2-43.webp in Resources */,
 				9364847B27689FCE004ED4FF /* 8-46.webp in Resources */,
 				9364835B27689FCD004ED4FF /* 1-28.webp in Resources */,
+				93DFA5932817A68E00D80BA4 /* icon-14.webp in Resources */,
 				9364847727689FCE004ED4FF /* 1-105.webp in Resources */,
 				936484CF27689FCE004ED4FF /* 5-8.webp in Resources */,
 				9364822827689FCC004ED4FF /* 12-9.webp in Resources */,
@@ -4150,6 +4165,7 @@
 				9364854627689FCE004ED4FF /* 9-20.webp in Resources */,
 				936482BB27689FCC004ED4FF /* 5-50.webp in Resources */,
 				936484E127689FCE004ED4FF /* icon-8.webp in Resources */,
+				93DFA5912817A4FD00D80BA4 /* 14-0.webp in Resources */,
 				936482DE27689FCC004ED4FF /* 8-75.webp in Resources */,
 				936483F327689FCD004ED4FF /* 32.webp in Resources */,
 				9364843527689FCD004ED4FF /* 1-93.webp in Resources */,
@@ -4379,7 +4395,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 5.0;
+				MARKETING_VERSION = 6.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.duckdns.gjaw.sticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";
@@ -4407,7 +4423,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 5.0;
+				MARKETING_VERSION = 6.0;
 				PRODUCT_BUNDLE_IDENTIFIER = org.duckdns.gjaw.sticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "WAStickersThirdParty/WAStickersThirdParty-Bridging-Header.h";

@@ -3316,5 +3316,26 @@
           "image_file": "13-13.webp"
         }
       ]
+    },
+    {
+        "identifier": "FB6A8363-1A69-44D6-89A9-114B92159611",
+        "name": "Don't rembat my sticker you s/o & d/o a bitch",
+        "publisher": "Satin copyright © 2021-2022",
+        "tray_image_file" : "icon-14.webp",
+        "publisher_website" : "https://github.com/growtopiajaw/stickers",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "animated_sticker_pack" : false,
+        "stickers": [
+        {
+            "image_file": "14-0.webp"
+        },
+        {
+            "image_file": "14-1.webp"
+        },
+        {
+            "image_file": "14-2.webp"
+        }
+      ]
     }]
 }
